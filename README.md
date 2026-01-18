@@ -1,4 +1,4 @@
-# Mengobrol - Chat App
+# Chatty - Chat App
 
 A real-time chat application built using **Flutter**, **GetX** for state management and **Firebase Firestore** as the backend to store and manage chat data also for authentication. The app enables users to communicate instantly, search for other users, and update their profiles anytime. Available on both **Android** and **iOS**.
 
